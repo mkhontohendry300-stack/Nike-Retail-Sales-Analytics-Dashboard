@@ -1,11 +1,12 @@
-# 👟 Nike Sales Performance Dashboard
+#  Nike Sales Performance Dashboard
 ### Power BI | Data Analytics | India Region | FY 2023–2025
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1402" height="630" alt="image" src="https://github.com/user-attachments/assets/3e88e036-6480-4ddc-9847-2c37df84b8ab" />
+
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 A full end-to-end data analytics project built in **Power BI Desktop**, covering data cleaning, DAX measure creation, and interactive dashboard design using Nike sales data across 6 Indian cities.
 
@@ -17,7 +18,7 @@ This project demonstrates:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 nike-dashboard/
@@ -43,7 +44,7 @@ nike-dashboard/
 
 ---
 
-## 📈 Dashboard Visuals
+##  Dashboard Visuals
 
 | # | Visual | Type | Purpose |
 |---|--------|------|---------|
@@ -61,7 +62,7 @@ nike-dashboard/
 
 ---
 
-## 🔢 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -76,7 +77,7 @@ nike-dashboard/
 
 ---
 
-## 🏆 Key Insights
+##  Key Insights
 
 - **Kolkata** is the top performing region with **134,520** in revenue
 - **Training** is the best selling product line at **26.8%** of total revenue
@@ -88,7 +89,7 @@ nike-dashboard/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -99,7 +100,7 @@ nike-dashboard/
 
 ---
 
-## 🧹 Data Cleaning Summary
+##  Data Cleaning Summary
 
 The raw dataset had **14 quality issues** that were fixed:
 
@@ -122,7 +123,7 @@ The raw dataset had **14 quality issues** that were fixed:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone this repository
 2. Open Power BI Desktop
@@ -134,20 +135,16 @@ The raw dataset had **14 quality issues** that were fixed:
 
 ---
 
-## 📝 DAX Measures
+##  DAX Measures
 
 See [`docs/dax_measures.md`](docs/dax_measures.md) for all 13 measures.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Malehu Segoapa**
+**Mkhonto hendry Mike**
 Capaciti Data Analytics Programme
-📧 malehu.segoapa@capaciti.org.za
+Mkhontohendry300@gmail.com
 
----
 
-## 📄 License
-
-This project is for educational purposes as part of the Capaciti Data Analytics training programme.
